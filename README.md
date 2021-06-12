@@ -4,7 +4,7 @@ Mô tả bài toán: Tổ dân phố có một quỹ riêng để cấp phần t
 
 Người thực hiện: 
 Bùi Việt Hoàng,
-Trần Quan Minh,
+Trần Quang Minh,
 Trịnh Văn Thoại,
 Trần Đức Duy,
 Viên Đình Khương.
